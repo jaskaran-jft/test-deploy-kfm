@@ -1,0 +1,35 @@
+export const addVendorForm = {
+  address: {
+    country: "",
+    state: "",
+    place: "",
+    zipCode: "",
+    province: "",
+  },
+  user: {
+    firstName: "",
+    lastName: "",
+    tenantId: "",
+    username: "",
+    password: "",
+  },
+  business: {
+    businessName: "",
+    businessPhone: "",
+    faxNumber: "",
+    personalPhone: "",
+    billAs: "",
+    tradeId: "",
+  },
+  vendorContract: {
+    regular: "",
+    afterHours: "",
+    weekend: "",
+    holiday: "",
+    emergency: "",
+    weekendEmergency: "",
+    regularTripCharge: "",
+    emergencyTripCharge: "",
+    workRange: "",
+  },
+};

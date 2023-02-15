@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "Kfm247",
+      "script": "npx",
+      "interpreter": "none",
+      "args": "serve build -p 3000"
+    }
+  ]
+}

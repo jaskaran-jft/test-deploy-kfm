@@ -1,0 +1,32 @@
+/* table {
+  display: table !important;
+  width: 100%;
+  page-break-after: auto;
+}
+thead {
+  display: table-header-group;
+  width: 100%;
+  position: relative;
+}
+tr {
+  page-break-inside: avoid;
+  page-break-after: auto;
+}
+td {
+  page-break-inside: avoid;
+  page-break-after: auto;
+}
+tr.strong-text td {
+  font-weight: 500;
+  font-size: 20px;
+}
+@media print {
+  .card-header {
+    display: flex;
+    align-items: center;
+    color: #fff;
+    justify-content: space-between;
+    width: 100%;
+    background: #3a84b5;
+  }
+} */

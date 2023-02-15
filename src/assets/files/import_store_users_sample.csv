@@ -1,0 +1,3 @@
+firstName,lastName,username,password,isManager,primaryContactEmail,primaryContactPhone,ext
+Test,one,test1@gmail.com,test1,TRUE,test1@test.com,760-373-3399,551
+Test,two,test2@gmail.com,test2,TRUE,test2@test.com,760-373-3399,552

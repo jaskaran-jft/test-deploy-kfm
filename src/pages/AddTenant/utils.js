@@ -1,0 +1,45 @@
+export const tenantInitialValues = {
+  address: [
+    {
+      streetAddress1: "",
+      streetAddress2: "",
+      country: "",
+      state: "",
+      province: "",
+      place: "",
+      zipCode: "",
+      type: "Corporate",
+      email: "",
+    },
+    {
+      streetAddress1: "",
+      streetAddress2: "",
+      country: "",
+      state: "",
+      province: "",
+      place: "",
+      zipCode: "",
+      type: "Billing",
+      email: "",
+    },
+  ],
+  tenant: {
+    domainName: "",
+    name: "",
+    shortCode: "",
+  },
+
+  contact: {
+    email: "",
+    website: "",
+    dialInInstruction: "",
+    dialInNotes: "",
+    primaryContactName: "",
+    primaryContactEmail: "",
+    ext: "",
+    primaryContactPhone: "",
+    telephone: "",
+    cellphone: "",
+    dialInNumber: "",
+  },
+};
